@@ -1,0 +1,9 @@
+{
+  "release-type": "simple",
+  "draft": true,
+  "packages": {
+    ".": {
+      "component": "my-app"
+    }
+  }
+}
